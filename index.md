@@ -19,7 +19,7 @@ Started in 2022, the OWASP New Braunfels chapter is located in a small town in t
 exists to bring application security awareness to New Braunfels and the surrounding communities. 
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All our members and participants are encouraged to become an [OWASP Member](https://owasp.org/membership/)
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All our members and participants are encouraged to become an [OWASP Member](https://owasp.org/membership/)
 
 If you are interested in participating in the OWASP New Braunfels Chapter please feel free to join us at our next meeting, listed below. We are always looking for people who would like to present at one of our meetings; if that sounds like something you would
 be interested in, please drop an email to one of the leaders (listed to the right).
